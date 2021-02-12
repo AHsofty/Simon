@@ -1,2 +1,2 @@
 # Simon
-Just regular simon.
+Just regular simon made in unity.
